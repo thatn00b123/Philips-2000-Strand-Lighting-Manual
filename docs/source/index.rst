@@ -7,5 +7,5 @@ Contents:
 .. toctree::
 
   fixtures
-  intensity-and-color
+  color
   cues
